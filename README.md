@@ -1,6 +1,1 @@
-# hello-world
-
-안녕!
-
-하엔이라고 합니다.
-신입이니까 앞으로 잘 부탁드립니다!
+# Data Analytics
